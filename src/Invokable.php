@@ -4,6 +4,9 @@ namespace Karmek\FaasPhp;
 
 use Symfony\Component\HttpFoundation\Request;
 
+/**
+ * A class that can be invoked by the system, for example AbstractFunction.
+ */
 interface Invokable
 {
     /**
