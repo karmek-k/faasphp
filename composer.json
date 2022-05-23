@@ -4,7 +4,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Karmek\\FaasPhp\\": "src/"
+            "Karmek\\FaasPhp\\": "src/",
+            "Tests\\": "tests/"
         }
     },
     "require": {
