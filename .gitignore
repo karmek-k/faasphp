@@ -7,3 +7,5 @@ composer.phar
 
 .vscode/
 .idea/
+/.php-cs-fixer.cache
+/.phpunit.result.cache
